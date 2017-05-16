@@ -1,0 +1,16 @@
+img {
+  float: right;
+  margin: 1 1 7px 7px;
+}
+
+.summer {
+  float: left;
+  margin 0 2 8px 8px;
+}
+
+.new {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1px;
+}
